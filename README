@@ -2,6 +2,7 @@ Datasheet with PC-Control-Commands for Kenwood TS-480
 http://images.kenwood.eu/files/images/products/product_id_257/file_category_4/kenwood_ts480_pc.pdf
 
 Roadmap:
+- better and shorter name for the project
 - get datasheets from different transceivers (Kenwood and others)
 - compare datasheets regarding different commands
 - integrating different commandsets with the help of dictionaries
@@ -10,4 +11,7 @@ Roadmap:
 - documentation (sisu ?)
 - integrating new developers and helpers
 - mailinglist, probably @ gmane
+- ini file
+- getting people to the project with small developer knowledge, eg for PR, making new contacts, graphics, etc. 
+- make code platform-independant
 

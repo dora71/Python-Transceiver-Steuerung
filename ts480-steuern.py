@@ -1,4 +1,11 @@
-#!/usr/bin/python
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+__author__ = "Rainer Dohmen, Jonas Stein"
+__license__ = "GPL"
+__email__ = "rdohmen@pensionmoselblick.de"
+__maintainer__ = "Rainer Dohmen, DL5PD"
+__status__ = "Development"
 
 import time
 import serial
