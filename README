@@ -7,11 +7,12 @@ Roadmap:
 - compare datasheets regarding different commands
 - integrating different commandsets with the help of dictionaries
 - script language to unify different commandsets
+- integrated help for script language (commands)
 - GUI (probably Qt4)
 - documentation (sisu ?)
 - integrating new developers and helpers
 - mailinglist, probably @ gmane
-- ini file
+- ini file for specifying baudraute, etc.
 - getting people to the project with small developer knowledge, eg for PR, making new contacts, graphics, etc. 
 - make code platform-independant
-
+- error handling
