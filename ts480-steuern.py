@@ -41,9 +41,9 @@ def scan(anfang,ende,weite):
       ser.open()
       ser.isOpen()
       ser.write("FA000"+freq+"000;")
-      ser.close()
-      ser.open()
-      ser.isOpen()
+ #    ser.close()
+ #     ser.open()
+ #     ser.isOpen()
       ser.write("FA;")
       x = ser.read(14)
       menue()
@@ -76,7 +76,7 @@ while True:
       step = int(raw_input("Jetzt noch die Schrittweite: "))
       print "Und los geht es mit dem Scan-Vorgang"
       scan(fmin,fmax,step)
-   elif auswahl == "3":
+   elif auswahl == "3": #anm. hier koennte man mit dict und funktionen menues modularisieren
       richtung = raw_input("Soll (h)och oder (r)untergeschaltet werden? ")
       if richtung == "h":
          schreiben("BU;")
