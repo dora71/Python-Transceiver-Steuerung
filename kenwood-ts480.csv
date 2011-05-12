@@ -1,10 +1,11 @@
-"command","syscall","description"
-"wbu","BU;","Moves up the freqency band"
-"wbd","BD;","Moves down the freqency band"
-"wcr","RC;","clears the RIT offset frequency"
-"rfa","FA;","reads frequency of VFO A"
-"rfb","FB;","reads frequency of VFO B"
-"rnb","NB;","reads the noise blanker status"
-"rpa","PA;","reads the pre-amplifier status"
-"rpw","PC;","reads the output power"
-"rsm","SM0;","reads the S-Meter status"
+wbu,BU;,Moves up the freqency band
+wbd,BD;,Moves down the freqency band
+wcr,RC;,clears the RIT offset frequency
+rfa,FA;,reads frequency of VFO A
+rfb,FB;,reads frequency of VFO B
+rnb,NB;,reads the noise blanker status
+rpa,PA;,reads the pre-amplifier status
+rpw,PC;,reads the output power
+rsm,SM0;,reads the S-Meter status
+rmr,FR;,reads the VFO or M.CH mode
+rag,GT;,reads the AGC constant status
