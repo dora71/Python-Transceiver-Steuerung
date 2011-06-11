@@ -1,6 +1,7 @@
 Roadmap
 =======
 
+- ask Kenwood about other datasheets and how many devices with COM Port are sold? So we know how many people could be interested in at maximum.
 - better and shorter name for the project
 - get datasheets from different transceivers (Kenwood and others)
 - compare datasheets regarding different commands
@@ -8,7 +9,7 @@ Roadmap
 - script language to unify different commandsets
 - integrated help for script language (commands)
 - GUI (probably Qt4)
-- documentation (sisu ?)
+- documentation (sisu? ReST?)
 - integrating new developers and helpers
 - mailinglist, probably @ gmane
 - ini file for specifying baudraute, etc.
